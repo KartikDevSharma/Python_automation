@@ -15,7 +15,7 @@ Welcome to my Python Automation repository! This collection showcases various au
 
 The GitHub Trends Analyzer is a powerful tool that provides insights into trending repositories on GitHub. It allows users to discover popular projects, track language trends, and stay updated with the latest developments in the open-source community.
 
-[View Project](link-to-project-folder-or-readme)
+[View Project](https://github.com/KartikDevSharma/Python_automation/tree/main/github_trends_analyzer)
 
 ## 🚀 Getting Started
 
