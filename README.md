@@ -15,20 +15,6 @@ Welcome to my Python Automation repository! This collection showcases various au
 
 The GitHub Trends Analyzer is a powerful tool that provides insights into trending repositories on GitHub. It allows users to discover popular projects, track language trends, and stay updated with the latest developments in the open-source community.
 
-#### Features:
-- 📈 Fetch and analyze trending repositories from GitHub
-- 🌍 Filter trends by programming language
-- 📅 Customizable date ranges for trend analysis
-- 📊 Generate insightful visualizations and reports
-- 🔔 Set up alerts for specific trending topics or repositories
-
-#### Tech Stack:
-- Python 3.8+
-- Requests library for API interactions
-- Pandas for data manipulation
-- Matplotlib and Seaborn for data visualization
-- GitHub API
-
 [View Project](link-to-project-folder-or-readme)
 
 ## 🚀 Getting Started
