@@ -64,7 +64,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Have questions or want to discuss Python automation? Feel free to reach out!
 
 <p align="center">
-  <a href="https://github.com/YourUsername"><img src="https://img.shields.io/github/followers/KartikDevSharma?label=Follow&style=social" alt="GitHub"></a>
+  <a href="https://github.com/KartikDevSharma"><img src="https://img.shields.io/github/followers/KartikDevSharma?label=Follow&style=social" alt="GitHub"></a>
   <a href="https://twitter.com/KartikDev_"><img src="https://img.shields.io/twitter/follow/KartikDev_?style=social" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/YourLinkedInProfile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
